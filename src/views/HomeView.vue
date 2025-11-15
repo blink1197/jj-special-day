@@ -139,7 +139,7 @@ function generateFloatingStyle(type) {
 }
 
 .jeush-image {
-    max-width: 16rem !important;
+    max-width: 14rem !important;
     width: 100%;
     height: auto;
 }
