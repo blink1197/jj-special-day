@@ -129,7 +129,7 @@ function generateFloatingStyle(type) {
 /* Text styles */
 .join {
     font-family: Angkor;
-    font-size: 2rem;
+    font-size: 1.75rem;
     color: rgba(0, 164, 217, 1);
     text-shadow:
         2px 2px 0 #fff,
