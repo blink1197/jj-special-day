@@ -59,7 +59,7 @@ function generateFloatingStyle(type) {
             <h1 class="join mb-3">Join us to celebrate!</h1>
 
             <!-- Image -->
-            <img src="/images/jeush-1.webp" class="img-fluid rounded mb-3" alt="Jeush" />
+            <img src="/images/jeush-1.webp" class="img-fluid rounded mb-3 jeush-image" alt="Jeush" />
 
             <!-- Name & Event -->
             <h2 class="name mb-1">Jeush</h2>
@@ -138,8 +138,8 @@ function generateFloatingStyle(type) {
         -2px -2px 0 #fff;
 }
 
-img {
-    max-width: 21rem;
+.jeush-image {
+    max-width: 18rem !important;
     width: 100%;
     height: auto;
 }
